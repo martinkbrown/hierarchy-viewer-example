@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ViewHierarchyExampleActivity!</string>
+    <string name="app_name">HierarchyViewerExample</string>
+    <string-array name="countries">
+        <item >Netherlands</item>
+        <item >France</item>
+        <item >New Zealand</item>
+    </string-array>
+
+</resources>
