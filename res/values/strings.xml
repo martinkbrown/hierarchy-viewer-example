@@ -8,5 +8,18 @@
         <item >France</item>
         <item >New Zealand</item>
     </string-array>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="country">Country</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
 
 </resources>
